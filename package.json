@@ -1,0 +1,26 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElectronicMoney/cryptochain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElectronicMoney/cryptochain/issues"
+  },
+  "homepage": "https://github.com/ElectronicMoney/cryptochain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
